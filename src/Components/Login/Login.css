@@ -1,0 +1,34 @@
+.login-container {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-wrapper {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    padding: 3px;
+    border-radius: 5px;
+    background-color: #3283fc;
+    cursor: pointer;
+}
+
+.login-wrapper img {
+    width: 28px;
+    margin-right: 15px;
+}
+
+.google-img-box {
+    background-color: white;
+    width: 43px;
+    padding: 8px;
+    border-radius: 3px;
+    margin-right: 8px;
+}
+
+.login-wrapper h5 {
+    color: white;
+    margin-right: 5px;
+}

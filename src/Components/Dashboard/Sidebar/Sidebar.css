@@ -1,0 +1,18 @@
+.sidebar {
+    background: linear-gradient(45deg, #093028, #237a57);
+    width: 275px;
+    height: 100vh;
+}
+
+.list-unstyled li {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.list-unstyled li:hover {
+    background-color: #028c55;
+}
+
+.list-unstyled li a {
+    display: block;
+}

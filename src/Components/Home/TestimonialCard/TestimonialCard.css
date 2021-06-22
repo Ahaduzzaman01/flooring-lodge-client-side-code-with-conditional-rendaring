@@ -1,0 +1,23 @@
+.testimonial-text-wrapper img{
+    height: 30px;
+}
+
+.testimonial-card {
+    width: 28%;
+    margin-top: 20px !important;
+    background-color: white;
+    border-radius: 6px;
+}
+
+.rating img {
+    height: 15px;
+    margin-right: 5px;
+}
+
+@media only screen and (max-width: 767px) {
+    .testimonial-card {
+    width: 100%;
+    margin: 0 !important;
+    margin-top: 20px !important;
+}
+}

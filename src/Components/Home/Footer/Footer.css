@@ -1,0 +1,40 @@
+.footer-bg{
+    background: linear-gradient(to right, #093028, #237a57);
+}
+.footer-container{
+    color: #fafee8;
+}
+
+.submit-btn{
+    background-color: #d2ab82;
+    color: white;
+}
+
+.links p{
+    margin: 0;
+}
+
+.links a{
+    color: #fafee8;
+    text-decoration: none;
+}
+
+.links a:hover{
+    text-decoration: underline;
+}
+
+
+.footer-social-icon a {
+    font-size: 22px;
+    color: white;
+    margin-right: 20px;
+}
+
+@media only screen and (max-width: 767px){
+    .footer-input {
+    width: 100% !important;
+    }
+    .input-box {
+        width: 100% !important;
+    }
+}

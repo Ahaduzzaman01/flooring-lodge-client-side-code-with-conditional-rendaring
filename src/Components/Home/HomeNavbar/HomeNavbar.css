@@ -1,0 +1,12 @@
+.logo img {
+    height: 55px;
+}
+
+@media only screen and (max-width: 767px) {
+    .navbar{
+        background-color: #ffffffc9;
+    }
+    .navbar a{
+        color: black !important;
+    }
+}

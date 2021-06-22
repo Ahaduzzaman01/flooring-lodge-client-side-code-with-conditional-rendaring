@@ -1,0 +1,20 @@
+.add-service-container {
+    background-color: #2277551a;
+}
+
+.form-container {
+    border-radius: 12px;
+}
+
+.add-service-btn {
+    background: linear-gradient(45deg, #0e5445, #05c578);
+    border: none;
+    outline: none;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+
+.add-service-btn:hover {
+    background: linear-gradient(45deg, #05c578, #0e5445);
+}

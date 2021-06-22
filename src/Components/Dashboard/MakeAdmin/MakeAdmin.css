@@ -1,0 +1,20 @@
+.make-admin-form-container {
+    background-color: #2277551a;
+}
+
+.admin-input-wrapper {
+    border-radius: 10px;
+}
+
+.make-admin-btn{
+    background: linear-gradient(45deg, #0e5445, #05c578);
+    border: none;
+    outline: none;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+
+.make-admin-btn:hover {
+    background: linear-gradient(45deg, #05c578, #0e5445);
+}

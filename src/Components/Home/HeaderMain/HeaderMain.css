@@ -1,0 +1,22 @@
+.headerMain-container{
+    height: 88%;
+}
+
+.headerMain-container h1 {
+    font-size: 3rem;
+}
+
+.headerMain-container p {
+    font-size: 1.5rem;
+}
+
+@media only screen and (max-width: 767px) {
+.headerMain-container h1 {
+    font-size: 2rem;
+    }
+
+    .headerMain-container p {
+    font-size: 1.1rem;
+    }
+
+}

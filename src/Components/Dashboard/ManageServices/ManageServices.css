@@ -1,0 +1,11 @@
+.manage-table-container {
+    background-color: #2277551a;
+}
+
+.manage-table-wrapper {
+    border-radius: 10px;
+}
+
+.delete-icon {
+    color: red;
+}
